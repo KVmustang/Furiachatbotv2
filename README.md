@@ -11,8 +11,8 @@ O projeto consiste em duas partes principais:
 
 ## Links
 
-*   **Landing Page:** https://usijmlre.manus.space
-*   **Chatbot Furioso:** https://qvszcivj.manus.space
+*   **Landing Page:** https://gnpyqchf.manus.space/
+*   **Chatbot Furioso:** https://lazeydio.manus.space/
 
 ## Funcionalidades
 
