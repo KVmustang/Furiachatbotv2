@@ -130,3 +130,6 @@ furia_project/
 *   O código do frontend foi ajustado para usar `npm install --legacy-peer-deps` devido a um conflito de versão entre o React 19 (usado no template) e a dependência `cmdk` (que esperava React 18).
 *   O chatbot foi corrigido para usar a conexão Socket.IO real com o backend, incluindo um modo offline de fallback.
 
+## Autor
+
+*Kelvin Vaz de Almeida*
